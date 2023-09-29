@@ -32,7 +32,7 @@ const DetailsDialog = (props: Props) => {
                 <Github className="w-5 h-5" />
                 <Link
                   className="ml-1 underline"
-                  href="https://github.com/elliott-chong/quizmify"
+                  href="https://github.com/debayanpratihar"
                 >
                   GitHub
                 </Link>
@@ -41,7 +41,7 @@ const DetailsDialog = (props: Props) => {
                 <Youtube className="w-5 h-5" />
                 <Link
                   className="ml-1 underline"
-                  href="https://youtube.com/@elliottchong"
+                  href="https://www.youtube.com/@ShortsApna"
                 >
                   YouTube
                 </Link>
